@@ -1,0 +1,16 @@
+<?php
+
+$nilai = 79;
+
+// if = kondisi
+if ($nilai >= 75) {
+    echo "Nilai A";
+} elseif ($nilai >= 70) {
+    echo "Nilai B";
+} else {
+    echo "Nilai C";
+} 
+
+
+
+?>
